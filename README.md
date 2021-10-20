@@ -1,0 +1,1 @@
+personal repository for self-study of Machine Learning technologies using mainly Python
